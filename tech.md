@@ -1,6 +1,6 @@
-Nowadays Test Driven Development (TDD) is very opinionated (some might even think that [TDD is dead](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)) but it is hard to argue that it has become a standard of how we write applications.
+Nowadays, Test Driven Development (TDD) is very opinionated (some might even think that [TDD is dead](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)) but it is hard to argue that it has become a standard of how we write applications.
 
-Unfortunately, a lot of developers miss the core idea of TDD, that the tests have to be written first and implementation is kind of a side effect which makes the tests pass, not the other way around.
+Unfortunately, a lot of developers miss the core idea of TDD, namely, that the tests have to be written first and implementation is kind of a side effect which makes the tests pass, not the other way around.
 
 It is very common to spot developers that implement first and add tests later on, to validate what they just had written. To be honest *just* writing specs is to TDD as Java is to JavaScript.
 
